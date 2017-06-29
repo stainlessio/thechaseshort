@@ -1,0 +1,16 @@
+<!doctype html>
+{{- $baseURL := .Site.BaseURL -}}
+<html>
+<head>
+    <link rel="stylesheet" href="/css/main.css">
+</head>
+<body>
+{{ range .Pages }}
+<section class="{{ if .Params.section_class }}{{ .Params.section_class }}{{ else }}section{{ end }}">
+    {{ if not .Params.hide_title }}<header><h1>{{ .Title | title}}</h1></header>{{ end }}
+    <div class="content">{{ .Content }}</div>
+</section>
+{{ end }}
+</body>
+</body>
+</html>
