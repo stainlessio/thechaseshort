@@ -63,11 +63,17 @@ body {
       font-size: 3em;
       font-variant: small-caps; }
 
+.awards {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start; }
+
 .award {
   position: relative;
   width: 150px;
   height: 150px;
-  overflow: hidden; }
+  overflow: hidden;
+  margin: 0 2rem 2rem 0; }
   .award .laural {
     position: absolute;
     z-index: 1; }

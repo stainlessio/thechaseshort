@@ -1,8 +1,15 @@
+.awards {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
 .award {
   position: relative;
   width: 150px;
   height: 150px;
   overflow: hidden;
+  margin: 0 2rem 2rem 0;
 
   .laural {
     position: absolute;
