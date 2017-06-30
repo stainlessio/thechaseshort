@@ -14,7 +14,8 @@ weight = 40
 {{< crew name="Brody Willis" position="Executive Producer" >}}
 <a href="https://blanketfortfilms.com">Blanket Fort Films</a>
 {{< /crew >}}
-{{< crew name="Elizabeth Lain" position="Sound Design" >}}
+{{< crew name="Elizabeth Lain" position="Sound Engineer &amp; Composer" >}}
+<a href="http://elizabethlain.com">Official Site</a>
 {{< /crew >}}
 {{< crew name="???" position="More coming soon" >}}
 {{< /crew >}}
