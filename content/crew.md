@@ -22,6 +22,7 @@ weight = 40
 {{< /flexbox >}}
 
 {{< flexbox id="production_companies" >}}
+{{< link url="http://www.seattle.gov/filmandmusic" image="/filmoffice.png" title="Seattle Office of Film and Music" >}}
 {{< link url="http://blanketfortfilms.com" image="/blanketfort.png" title="Blanket Fort Films" >}}
 {{< link url="https://doomsparkle.com" image="/doomsparkle.png" title="Doom Sparkle" >}}
 {{< /flexbox >}}

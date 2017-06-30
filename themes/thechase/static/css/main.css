@@ -78,6 +78,7 @@ a {
       font-variant: small-caps; }
 
 #production_companies {
+  margin-top: 5rem;
   justify-content: space-around;
   align-items: center; }
   #production_companies img {
