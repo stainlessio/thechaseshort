@@ -7,7 +7,7 @@ weight = 40
 <a href="https://russellhay.com">Official Site</a>
 {{< /crew >}}
 {{< crew name="Ben Hartzell" position="Director of Photography" >}}
-<a href="">Demo Reel</a>
+<a href="https://vimeo.com/195553674">Demo Reel</a>
 {{< /crew >}}
 {{< crew name="Jackie An" position="Producer" >}}
 {{< /crew >}}
