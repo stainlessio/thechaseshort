@@ -34,13 +34,13 @@ body {
   margin-top: 2.5rem;
   margin-bottom: 2.5rem;
 
-  .content {
+  & > .content {
     @include content-position;
     font-size: 1.5rem;
     line-height: 1.5em;
   }
 
-  header {
+  & > header {
     background: #fefefe;
     color: #121212;
     margin-bottom: 2.5rem;
@@ -56,3 +56,4 @@ body {
 }
 
 @import "award";
+@import "actor";
