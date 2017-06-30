@@ -8,7 +8,7 @@ install:
 - go get -u -v github.com/spf13/hugo
 #- cd $GOPATH/src/github.com/spf13/hugo && govendor sync && go install
 script:
-- cd $GOPATH/src/github.com/stainlessio/thechaseshort
+#- cd $GOPATH/src/github.com/stainlessio/thechaseshort
 - hugo
 notifications:
   email:
