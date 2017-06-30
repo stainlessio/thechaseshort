@@ -17,7 +17,7 @@ notifications:
 deploy:
   provider: script
   skip_cleanup: true
-  script: rsync -r --quiet $TRAVIS_BUILD_DIR/public/ deploy@russellhay.com:/home/www/thechase/
+  script: rsync -r --quiet $TRAVIS_BUILD_DIR/public/ deploy@russellhay.com:/home/www/thechaseshort/
   on:
     branch: master
 
