@@ -35,6 +35,20 @@ body {
   color: #fefefe;
   font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif; }
 
+body > header {
+  font-family: Geneva, Verdana, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  max-width: 960px;
+  margin: auto;
+  margin-top: 2rem; }
+  body > header h1 {
+    font-size: 5rem;
+    font-variant: small-caps; }
+  body > header h2 {
+    font-size: 1.5rem; }
+
+a {
+  color: #9e9eff; }
+
 .small .content {
   max-width: 960px;
   margin: auto; }
@@ -62,6 +76,12 @@ body {
       padding: 2rem;
       font-size: 3em;
       font-variant: small-caps; }
+
+#production_companies {
+  justify-content: space-around;
+  align-items: center; }
+  #production_companies img {
+    display: block; }
 
 .flexbox {
   display: flex;
@@ -103,17 +123,23 @@ body {
     overflow: hidden;
     font-size: 1rem;
     margin-right: 2.5rem; }
-  .actor header h1 {
-    font-family: Geneva, Verdana, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
-    font-variant: small-caps; }
-  .actor header h2 {
-    font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
-    font-variant: small-caps;
-    font-style: italic; }
   .actor .bio {
     font-size: 1rem; }
 
-#cast > *, #extras > * {
+#cast > *, #extras > *, #crew > * {
   flex: 1 50%; }
+
+#cast header h1, #crew header h1 {
+  font-family: Geneva, Verdana, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
+  font-variant: small-caps; }
+#cast header h2, #crew header h2 {
+  font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
+  font-variant: small-caps;
+  font-style: italic; }
+
+.crew {
+  margin-bottom: 1.5rem; }
+  .crew .links {
+    font-size: 1rem; }
 
 /*# sourceMappingURL=main.css.map */

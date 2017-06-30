@@ -19,6 +19,25 @@ body {
   @include body-types;
 }
 
+body > header {
+  @include header-types;
+  @include content-position;
+  margin-top: 2rem;
+
+  h1 {
+    font-size: 5rem;
+    font-variant: small-caps;
+  }
+
+  h2 {
+    font-size: 1.5rem;
+  }
+}
+
+a {
+  color: #9e9eff;
+}
+
 .small {
   .content {
     @include content-position;
@@ -55,5 +74,14 @@ body {
   }
 }
 
+#production_companies {
+  justify-content: space-around;
+  align-items: center;
+
+  img {
+    display: block;
+  }
+}
+
 @import "award";
-@import "actor";
+@import "people";

@@ -5,6 +5,7 @@
     <link rel="stylesheet" href="/css/main.css">
 </head>
 <body>
+<header><h1>The Chase</h1></header>
 {{ range .Pages }}
 <section class="{{ if .Params.section_class }}{{ .Params.section_class }}{{ else }}section{{ end }}">
     {{ if not .Params.hide_title }}<header><h1>{{ .Title | title}}</h1></header>{{ end }}

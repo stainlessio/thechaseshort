@@ -3,7 +3,7 @@ title = "awards"
 weight = 25
 draft = true
 +++
-{{< awards >}}
+{{< flexbox >}}
 {{< award title="Foo" laural="foo.png" year="2017" >}}
 {{< award title="Foo" laural="foo.png" year="2017" >}}
 {{< award title="Foo" laural="foo.png" year="2017" >}}
@@ -14,4 +14,4 @@ draft = true
 {{< award title="Foo" laural="foo.png" year="2017" >}}
 {{< award title="Foo" laural="foo.png" year="2017" >}}
 {{< award title="Foo" laural="foo.png" year="2017" >}}
-{{< /awards >}}
+{{< /flexbox >}}

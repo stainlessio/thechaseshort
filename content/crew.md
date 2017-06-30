@@ -2,6 +2,25 @@
 title = "crew"
 weight = 40
 +++
-{{< crew name="Russell Hay" position="Director" headshot="russell.png" >}}
-Bio here
+{{< flexbox id="crew" >}}
+{{< crew name="Russell Hay" position="Director &amp; Writer" >}}
+<a href="https://russellhay.com">Official Site</a>
 {{< /crew >}}
+{{< crew name="Ben Hartzell" position="Director of Photography" >}}
+<a href="">Demo Reel</a>
+{{< /crew >}}
+{{< crew name="Jackie An" position="Producer" >}}
+{{< /crew >}}
+{{< crew name="Brody Willis" position="Executive Producer" >}}
+<a href="https://blanketfortfilms.com">Blanket Fort Films</a>
+{{< /crew >}}
+{{< crew name="Elizabeth Lain" position="Sound Design" >}}
+{{< /crew >}}
+{{< crew name="???" position="More coming soon" >}}
+{{< /crew >}}
+{{< /flexbox >}}
+
+{{< flexbox id="production_companies" >}}
+{{< link url="http://blanketfortfilms.com" image="/blanketfort.png" title="Blanket Fort Films" >}}
+{{< link url="https://doomsparkle.com" image="/doomsparkle.png" title="Doom Sparkle" >}}
+{{< /flexbox >}}

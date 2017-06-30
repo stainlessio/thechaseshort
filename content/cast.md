@@ -2,7 +2,7 @@
 title = "cast"
 weight = 30
 +++
-{{< flexbox id="cast">}}
+{{< flexbox id="crew">}}
 {{<cast name="Charlie Chittenden" character="Alex" headshot="charlie.png">}}
 Bio will go here
 {{< /cast >}}

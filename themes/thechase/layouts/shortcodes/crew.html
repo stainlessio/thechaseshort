@@ -1,2 +1,4 @@
-crew entry
-{{ .Inner }}
+<div class="crew">
+    <header><h1>{{ .Get "name" }}</h1><h2>{{ .Get "position" | safeHTML }}</h2></header>
+    <div class="links">{{ .Inner }}</div>
+</div>

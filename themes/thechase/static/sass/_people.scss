@@ -11,15 +11,26 @@
     margin-right: 2.5rem;
   }
 
+  .bio { font-size: 1rem;}
+}
+
+#cast,#extras,#crew {
+  & > * {
+    flex: 1 50%;
+  }
+}
+
+#cast,#crew {
   header {
     h1 { @include header-types; font-variant: small-caps; }
     h2 { @include body-types; font-variant: small-caps; font-style: italic; }
   }
-  .bio { font-size: 1rem;}
 }
 
-#cast,#extras {
-  & > * {
-    flex: 1 50%;
+.crew {
+  margin-bottom: 1.5rem;
+
+  .links {
+    font-size: 1rem;
   }
 }
