@@ -116,27 +116,35 @@ a {
 .actor {
   display: flex;
   margin-bottom: 2.5rem; }
-  .actor .headshot {
-    display: block;
-    width: 160px;
-    height: 200px;
-    border: 1px solid #efefef;
-    overflow: hidden;
-    font-size: 1rem;
+  .actor .headshot_container {
+    width: 267px;
     margin-right: 2.5rem; }
+  .actor .headshot {
+    margin-top: 2.5em;
+    border: 1px solid #efefef;
+    min-width: 267px;
+    overflow: hidden;
+    font-size: 1rem; }
   .actor .bio {
     font-size: 1rem; }
 
-#cast > *, #extras > *, #crew > * {
+#crew > * {
   flex: 1 50%; }
 
-#cast header h1, #crew header h1 {
+#extras > * {
+  width: 267px;
+  margin-right: 2.5rem; }
+
+.actor header h1, #crew header h1 {
   font-family: Geneva, Verdana, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", sans-serif;
   font-variant: small-caps; }
-#cast header h2, #crew header h2 {
+.actor header h2, #crew header h2 {
   font-family: Geneva, "Lucida Sans", "Lucida Grande", "Lucida Sans Unicode", Verdana, sans-serif;
   font-variant: small-caps;
   font-style: italic; }
+
+.extras {
+  margin-top: 5rem; }
 
 .crew {
   margin-bottom: 1.5rem; }

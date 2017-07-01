@@ -84,5 +84,11 @@ a {
   }
 }
 
+.flexbox {
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: flex-start;
+}
+
 @import "award";
 @import "people";

@@ -1,6 +1,8 @@
 <div class="actor">
+    <div class="headshot_container">
     <img class="headshot"
          src="/images/headshots/{{ .Get "headshot" }}" alt="{{ .Get "name" }} headshot">
+    </div>
     <div class="presentation">
     <header><h1>{{ .Get "name" }}</h1><h2>{{ .Get "character" }}</h2></header>
     <div class="bio">{{ .Inner }}</div>
