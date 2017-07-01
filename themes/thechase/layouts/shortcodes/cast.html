@@ -1,4 +1,5 @@
 <div class="actor">
+    <a name="{{ .Get "character" | lower }}"></a>
     <div class="headshot_container">
     <img class="headshot"
          src="/images/headshots/{{ .Get "headshot" }}" alt="{{ .Get "name" }} headshot">
