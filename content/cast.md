@@ -16,8 +16,12 @@ this help people challenge traditional understandings of men, masculinity, and
 heteronormativity to create a more inclusive and kinder world.
 {{< /cast >}}
 
-{{<cast name="Quinn Safaie" character="Jason" headshot="quinn.png">}}
-Bio will go here
+{{<cast name="Quinn Safaie" character="Jason" headshot="quinn.jpg">}}
+Quinn Safaie is currently attending Seattle Central with hopes of pursuing a
+career in performance and film. He was a competitive gymnast as a child and
+has been practicing parkour in his free time for 5 years now. Quinn has been
+involved in high school and community theatre before, but is excited to make his
+film debut.
 {{< /cast >}}
 
 {{<cast name="Eric Jusino" character="Daniel" headshot="daniel.png">}}
