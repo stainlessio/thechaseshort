@@ -25,7 +25,7 @@ film debut.
 {{< /cast >}}
 
 {{<cast name="Eric Jusino" character="Daniel" headshot="daniel.png">}}
-Bio will go here
+Eric's sporadic acting career spans decades. In the 80s, he acted and ran tech in several elementary school productions. He took another stab at acting in 1996, devastating the audience with his one-line appearance in a college production. In 1998, he went to the silver screen as a stunt person and ninja (literally) for a student’s final project at a film school in Texas. Driven into hiding by his newfound fame, Eric disappeared from the stage for nearly 20 years. He took up parkour at a highly advanced age, and is excited to be part of <i>The Chase</i>.
 {{< /cast >}}
 
 {{<cast name="???" character="Linda" headshot="???.png">}}
