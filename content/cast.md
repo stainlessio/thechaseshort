@@ -33,7 +33,7 @@ Bio will go here
 {{< /cast >}}
 
 {{< extras >}}
-{{< extra "???" >}}
+{{< extra "Kellen Fujimoto" >}}
 {{< extra "???" >}}
 {{< extra "???" >}}
 {{< extra "???" >}}
