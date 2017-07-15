@@ -14,10 +14,20 @@ weight = 40
 {{< crew name="Brody Willis" position="Executive Producer" >}}
 <a href="https://blanketfortfilms.com">Blanket Fort Films</a>
 {{< /crew >}}
+{{< crew name="Amanda Gray" position="Assistant Director" >}}
+{{< /crew >}}
+{{< crew name="Lise Bengson" position="First Assistant Camera" >}}
+{{< /crew >}}
+{{< crew name="Jessica Brown" position="Editor" >}}
+{{< /crew >}}
+{{< crew name="Kalani Akuna" position="Art Director" >}}
+{{< /crew >}}
 {{< crew name="Elizabeth Lain" position="Sound Engineer &amp; Composer" >}}
 <a href="http://elizabethlain.com">Official Site</a>
 {{< /crew >}}
-{{< crew name="???" position="More coming soon" >}}
+{{< crew name="Emily Fortuna" position="Casting Director" >}}
+{{< /crew >}}
+{{< crew name="Jumana Naguthanawala" position="Script Supervisor" >}}
 {{< /crew >}}
 {{< /flexbox >}}
 
