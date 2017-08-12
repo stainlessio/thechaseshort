@@ -31,8 +31,8 @@ Eric's sporadic acting career spans decades. In the 80s, he acted and ran tech i
 {{< extras >}}
 {{< extra "Kellen Fujimoto" >}}
 {{< extra "Eva Funderburgh-Hollis" >}}
-{{< extra "Adrian Shaw" >}}
-{{< extra "???" >}}
-{{< extra "???" >}}
-{{< extra "???" >}}
+{{< extra "Michelangelo Corrado" >}}
+{{< extra "Sam Cooke" >}}
+{{< extra "Brian Prince" >}}
+{{< extra "Russell Hay" >}}
 {{< /extras >}}
