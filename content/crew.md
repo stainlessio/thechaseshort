@@ -19,6 +19,7 @@ weight = 40
 {{< crew name="Lise Bengson" position="First Assistant Camera" >}}{{< /crew >}}
 {{< crew name="Alex Farias" position="First Assistant Camera" >}}{{< /crew >}}
 {{< crew name="Ji Iadevaia" position="First Assistant Camera" >}}{{< /crew >}}
+{{< crew name="Robin Giese" position="2nd Assistant Camera" >}}{{< /crew >}}
 {{< crew name="Jeremiah Kraynor" position="Drone Operator" >}}{{< /crew >}}
 
 {{< crew name="Rose Shirley" position="Gaffer" >}}{{< /crew >}}
@@ -31,10 +32,8 @@ weight = 40
 {{< /crew >}}
 {{< crew name="Jumana Naguthanawala" position="Script Supervisor" >}}{{< /crew >}}
 {{< crew name="Morgan JK Brown" position="Storyboard Artist &amp; Production Assistant" >}}{{< /crew >}}
-{{< crew name="Robin Geise" position="Production Assistant" >}}{{< /crew >}}
-{{< crew name="Mufaddal Naguthanawala" position="Production Assistant" >}}{{< /crew >}}
+{{< crew name="Mufaddal Naguthanawala" position="Production Assistant &amp; Bestie" >}}{{< /crew >}}
 {{< crew name="Kamilla Kafiyeva" position="Production Assistant" >}}{{< /crew >}}
-{{< crew name="Louis Shoecraft" position="Production Assistant" >}}{{< /crew >}}
 
 
 {{< /flexbox >}}
